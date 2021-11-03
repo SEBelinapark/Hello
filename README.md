@@ -2,7 +2,7 @@
 
 <br/>
 
-![SEBelinapark's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBelinapark&count_private=true)
+![SEBelinapark's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBelinapark&count_private=true&theme=highcontrast)
 
 
 <div align=end>
