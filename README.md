@@ -2,7 +2,8 @@
 
 <br/>
 
-![Elina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBelinapark&show_icons=true&theme=radical)
+![SEBelinapark's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBelinapark&count_private=true)
+
 
 <div align=end>
 
